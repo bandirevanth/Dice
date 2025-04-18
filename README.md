@@ -15,7 +15,6 @@ c) 4  3/36  8.3333...%
 a) Have the results include a third column showing the percent of rolls each count represents.
 <br>
 b) Or (better yet) print a low-fi bar graph using rows of asterisks to represent relative values, with each asterisk representing one percent, for example.  
-<br>
 c) Add a column showing the theoretically expected percentage, for comparison.
 <br>
 d) Keep track of how much time the series of rolls takes and add that info to the final report. 
